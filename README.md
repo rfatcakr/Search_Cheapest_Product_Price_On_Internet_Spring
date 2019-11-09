@@ -15,14 +15,14 @@ Searching product price on the internet with Spring Boot
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/rfatcakr/todolist_WebService.git
+git clone https://github.com/rfatcakr/Search_Cheapest_Product_Price_On_Internet_Spring.git
 ```
 
 **2. Change MongoDB username and password as per your installation**
 
 + open `src/main/resources/application.properties`
 
-+ change `spring.data.mongodb.host`, `spring.data.mongodb.port` and `spring.data.mongodb.database` as per your mysql installation
++ change `spring.data.mongodb.host`, `spring.data.mongodb.port` and `spring.data.mongodb.database` as per your MongoDB installation
 
 **3. Build and run the app using maven**
 
