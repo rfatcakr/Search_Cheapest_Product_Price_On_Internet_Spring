@@ -32,13 +32,13 @@ public class ProductController {
 	public Product findProduct(@PathVariable("name") String name) {
 		Product query= productRepo.findProductByName(name);
 		//return query!=null?query:new HandleProductQuery().findProduct(name);
-		boolean a=false;
+		boolean status=false;
 		if(query==null)
-			a=!a;
+			status=true;
 		query=(query!=null)?query:new HandleProductQuery().findProduct(name);
 
-		//Increment ProductNo
-		if(a)
+		
+		if(status)
 			productRepo.insert(query);
 		return query;
 	}
