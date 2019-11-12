@@ -1,6 +1,5 @@
 # Search_Cheapest_Product_Price_On_Internet_Spring
 
-<br><br>
 [Medium Article](https://medium.com/@rifatcakira/how-to-search-a-product-price-by-taking-a-picture-of-it-332a7a4ea30a)
 <br><br>
 
