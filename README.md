@@ -1,6 +1,6 @@
 # Search_Cheapest_Product_Price_On_Internet_Spring
 
-[Medium Article](https://medium.com/@rifatcakira/how-to-search-a-product-price-by-taking-a-picture-of-it-332a7a4ea30a)
+[Medium article to create a product price searcher app](https://medium.com/@rifatcakira/how-to-search-a-product-price-by-taking-a-picture-of-it-332a7a4ea30a)
 
 Searching product price on the internet with Spring Boot
 
